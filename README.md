@@ -69,4 +69,29 @@ The system follows a structured data workflow:
 
 ---
 
+## Key Learnings
+- Project performance analysis  
+- KPI-based reporting  
+- Data visualisation using Power BI  
+- Understanding construction data workflows  
+
+---
+
+## Future Improvements
+- Integration with real-time project data  
+- Predictive analysis for project delays  
+- Resource optimisation dashboards  
+
+---
+
+## Author
+Anne Subashini Sritharan  
+Master of Data Analytics  
+Melbourne Institute of Technology  
+
+---
+
+## Project Note
+This project demonstrates how data analytics can be applied in construction environments to improve project performance and decision-making.
+
 ## 📂 Project Structure
