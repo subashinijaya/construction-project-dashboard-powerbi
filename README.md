@@ -1,37 +1,72 @@
 # construction-project-dashboard-powerbi
 Power BI dashboard project analysing construction project performance, including cost tracking, progress monitoring, and delay analysis using Excel and SQL.
 
-Construction Project Performance Dashboard
+# Construction Project Performance Dashboard
 
-Overview
-This project presents an interactive Power BI dashboard developed to analyse construction project performance. The dashboard provides insights into project progress, cost management, and delays, helping stakeholders make data-driven decisions.
+## Project Overview
+This project presents a construction project performance dashboard developed using Power BI. The aim is to analyse project progress, cost performance, and delays, providing clear insights to support data-driven decision-making in construction environments.
 
-Objectives
-Monitor project progress across multiple projects
-Analyse budget vs actual cost performance
-Identify delayed projects and performance issues
-Provide clear KPI indicators for decision-making
+This project simulates real-world reporting requirements in infrastructure and engineering projects.
 
-Tools & Technologies
-Microsoft Power BI
-Microsoft Excel
-SQL (for data handling concepts)
+---
 
-Dataset
-Source: Kaggle – Construction Project Management Dataset
-Data includes project timelines, cost details, progress metrics, and status information
+## Objectives
+- Monitor project progress across multiple projects  
+- Analyse budget vs actual cost performance  
+- Identify project delays and risks  
+- Provide KPI-based reporting for stakeholders  
+- Support efficient project planning and control  
 
-Key Features
-KPI cards showing total projects, total budget, and average progress
-Budget vs Actual Cost analysis
-Project progress tracking dashboard
-Delay identification (On-time vs Delayed projects)
-Interactive filters for better analysis
+---
 
-Dashboard Preview
+## System Architecture
+The system follows a structured data workflow:
 
-Key Insights
-Identified projects exceeding budget limits
-Highlighted delayed projects affecting timelines
-Provided visibility into overall project performance
-Enabled better resource and cost planning
+- **Data Collection Layer** – project and cost data from datasets  
+- **Data Processing Layer** – cleaning and transformation using Excel/Power Query  
+- **Data Modelling Layer** – relationships and calculated metrics  
+- **Visualisation Layer** – Power BI dashboards  
+
+---
+
+## Key Features
+- Project progress tracking dashboard  
+- Budget vs actual cost analysis  
+- Delay identification (On-time vs Delayed projects)  
+- KPI indicators for performance monitoring  
+- Interactive filtering and drill-down analysis  
+
+---
+
+## Technologies Used
+- **Microsoft Power BI** – Dashboard development  
+- **Microsoft Excel** – Data cleaning and preparation  
+- **SQL (Concepts)** – Data structuring and querying  
+
+---
+
+## Data Pipeline Workflow
+1. Data Collection from project dataset  
+2. Data Cleaning and Pre-processing  
+3. Data Transformation and KPI calculation  
+4. Data Modelling in Power BI  
+5. Dashboard Visualisation  
+
+---
+
+## Use Cases
+- Construction project monitoring  
+- Infrastructure performance tracking  
+- Cost control and budget analysis  
+- Project management reporting systems  
+
+---
+
+## Ethical Considerations
+- Ensuring data accuracy and integrity  
+- Responsible use of project data  
+- Transparent reporting for stakeholders  
+
+---
+
+## 📂 Project Structure
