@@ -27,7 +27,8 @@ This project presents a Power BI dashboard designed to analyse construction proj
 
 ## 🔗 Files Included
 - Power BI Dashboard (.pbix)
-- Dataset (.xlsx / .csv)
+- Dataset https://www.kaggle.com/datasets/programmer3/construction-project-management-dataset
+  
 
 ## 🚀 Outcome
 This dashboard helps stakeholders make data-driven decisions by providing clear insights into project performance.
